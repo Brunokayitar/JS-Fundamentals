@@ -26,3 +26,7 @@ This repository contains JavaScript fundamentals practice code.
 ## Task 5: Number Check
 - File: `5-to_integer.js`
 - Prints converted number or "Not a number"
+
+## Task 6: Loop Languages
+- File: `6-multi_languages_loop.js`
+- Prints 3 language lines using array and loop
