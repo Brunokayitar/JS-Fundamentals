@@ -1,4 +1,4 @@
-# JS-Fundamentals
+x# JS-Fundamentals
 
 ## Project Description
 This repository contains JavaScript fundamentals practice code.
@@ -9,3 +9,7 @@ This repository contains JavaScript fundamentals practice code.
 ## Task 1: 3 Languages
 -File: `1-multi_languages.js`
 -prints three lines about programming languages
+
+## Task 2. Arguments
+-File: 2-arguments.js
+-prints script that prints a message depending of the number of arguments passed
