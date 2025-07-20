@@ -45,3 +45,8 @@ This repository contains JavaScript fundamentals practice code.
 - File: `9-add.js`
 - Adds two integers from command line
 - Uses defined add(a, b) function
+
+## Task 10: Factorial Calculator
+- File: `10-factorial.js`
+- Computes factorial recursively
+- Handles NaN input
