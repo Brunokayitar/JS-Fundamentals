@@ -13,3 +13,8 @@ This repository contains JavaScript fundamentals practice code.
 ## Task 2. Arguments
 -File: 2-arguments.js
 -prints script that prints a message depending of the number of arguments passed
+
+## Task 3. Value of my argument
+- File: 3-value_argument.js
+-Write a script that prints the first argument passed to it
+
