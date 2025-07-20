@@ -35,3 +35,8 @@ This repository contains JavaScript fundamentals practice code.
 - File: `7-multi_c.js`
 - Prints "C is fun" x times
 - Handles invalid inputs
+
+## Task 8: Square Printer
+- File: `8-square.js`
+- Prints square of X's with given size
+- Handles invalid inputs
