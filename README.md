@@ -18,3 +18,7 @@ This repository contains JavaScript fundamentals practice code.
 - File: 3-value_argument.js
 -Write a script that prints the first argument passed to it
 
+
+## Task 4: Argument Concatenation
+- File: `4-concat.js`
+- Prints two arguments in format "[first] is [second]"
