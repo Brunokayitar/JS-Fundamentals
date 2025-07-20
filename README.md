@@ -30,3 +30,8 @@ This repository contains JavaScript fundamentals practice code.
 ## Task 6: Loop Languages
 - File: `6-multi_languages_loop.js`
 - Prints 3 language lines using array and loop
+
+## Task 7: C is Fun Loop
+- File: `7-multi_c.js`
+- Prints "C is fun" x times
+- Handles invalid inputs
