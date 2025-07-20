@@ -22,3 +22,7 @@ This repository contains JavaScript fundamentals practice code.
 ## Task 4: Argument Concatenation
 - File: `4-concat.js`
 - Prints two arguments in format "[first] is [second]"
+
+## Task 5: Number Check
+- File: `5-to_integer.js`
+- Prints converted number or "Not a number"
