@@ -40,3 +40,8 @@ This repository contains JavaScript fundamentals practice code.
 - File: `8-square.js`
 - Prints square of X's with given size
 - Handles invalid inputs
+
+## Task 9: Integer Addition
+- File: `9-add.js`
+- Adds two integers from command line
+- Uses defined add(a, b) function
